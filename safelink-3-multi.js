@@ -23,7 +23,7 @@ var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
 if(x=="1"){xxx="data-is-new-currency-are-you-prepared.html"}
 if(x=="2"){xxx="wannacry-outbreak-raises-concern-for-us.html"}
-if(x=="3"){xxx="mesothelioma-law-firm.html"}
+if(x=="3"){xxx="mesothelioma-law-firmm.html"}
 if(x=="4"){xxx="top-4-technology-trends-shaping-future.html"}
 if(x=="5"){xxx="data-analytics-and-iot-innovation.html"}a_to_ve[i].href="http://www.safelink99.ga/2017/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
